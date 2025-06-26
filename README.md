@@ -80,10 +80,3 @@ The application defaults to using "llama3", but you can use any model available 
 
 2. Update the `MODEL_NAME` variable in ai_agent.py.
 
-### Custom Cache Directory
-
-The application sets PandasAI's cache directory to `/tmp/pandasai_custom_cache`. You can modify this by changing:
-
-```python
-os.environ["PANDASAI_CACHE_DIR"] = "/path/to/your/preferred/cache"
-```
