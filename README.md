@@ -17,8 +17,8 @@ Data Analysis with PandasAI using local LLMs through Ollama
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dolphin-Syndrom/data-analyst-agent.git
-   cd data-analyst-agent
+   git clone https://github.com/Dolphin-Syndrom/Data-Analyst-AI-Agent
+   cd Data-Analyst-AI-Agent
    ```
 
 2. Create and activate a virtual environment (recommended):
